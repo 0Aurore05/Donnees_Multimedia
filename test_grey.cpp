@@ -1,4 +1,4 @@
-// test_couleur.cpp : Seuille une image en niveau de gris
+// test_grey.cpp : Seuille une image en niveau de gris
 
 #include <stdio.h>
 #include "image_ppm.h"
